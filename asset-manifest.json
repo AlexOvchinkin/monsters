@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlexOvchinkin/monsters/static/css/main.6a14798f.chunk.css",
+    "main.js": "/AlexOvchinkin/monsters/static/js/main.30924226.chunk.js",
+    "main.js.map": "/AlexOvchinkin/monsters/static/js/main.30924226.chunk.js.map",
+    "runtime-main.js": "/AlexOvchinkin/monsters/static/js/runtime-main.a3dfa16f.js",
+    "runtime-main.js.map": "/AlexOvchinkin/monsters/static/js/runtime-main.a3dfa16f.js.map",
+    "static/js/2.1b35cb52.chunk.js": "/AlexOvchinkin/monsters/static/js/2.1b35cb52.chunk.js",
+    "static/js/2.1b35cb52.chunk.js.map": "/AlexOvchinkin/monsters/static/js/2.1b35cb52.chunk.js.map",
+    "index.html": "/AlexOvchinkin/monsters/index.html",
+    "precache-manifest.35350c08534e71dcc129fb15b2ceb21e.js": "/AlexOvchinkin/monsters/precache-manifest.35350c08534e71dcc129fb15b2ceb21e.js",
+    "service-worker.js": "/AlexOvchinkin/monsters/service-worker.js",
+    "static/css/main.6a14798f.chunk.css.map": "/AlexOvchinkin/monsters/static/css/main.6a14798f.chunk.css.map",
+    "static/js/2.1b35cb52.chunk.js.LICENSE.txt": "/AlexOvchinkin/monsters/static/js/2.1b35cb52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3dfa16f.js",
+    "static/js/2.1b35cb52.chunk.js",
+    "static/css/main.6a14798f.chunk.css",
+    "static/js/main.30924226.chunk.js"
+  ]
+}
