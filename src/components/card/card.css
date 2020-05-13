@@ -1,0 +1,9 @@
+.card {
+    width: 15rem;
+    cursor: pointer;
+}
+
+.card:hover {
+    outline: 2px dotted goldenrod;
+}
+
